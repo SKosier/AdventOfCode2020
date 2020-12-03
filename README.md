@@ -5,5 +5,6 @@ Here I keep my solutions for the Advent of Code of 2020.
 
 ## Solutions
  1. [Day 1](Day1/Day1.java)
- 1. [Day 2](Day2/Day2.java)
+ 2. [Day 2](Day2/Day2.java)
+ 3. [Day 3](Day3/Day3.java)
  

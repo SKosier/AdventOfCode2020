@@ -11,3 +11,4 @@ Here I keep my solutions for the Advent of Code of 2020.
  5. [Day 5](Day5/Day5.java)
  6. [Day 6](Day6/Day6.java)
  . [Day ](Day/Day.java)
+ . [Day ](Day/Day.java)

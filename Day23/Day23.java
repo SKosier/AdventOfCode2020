@@ -10,7 +10,7 @@ public class Day23 {
 	}
 
 	public static void cups(String initialCups, int addCupsUntil, int rotations, boolean first) {
-		MyList list = new MyList("562893147", addCupsUntil);
+		MyList list = new MyList(initialCups, addCupsUntil);
 		for (int i = 0; i < rotations; i++) {
 			Queue<Integer> elements = new ArrayBlockingQueue<Integer>(10);
 			Set<Integer> set = new HashSet<>();

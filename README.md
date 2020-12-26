@@ -24,6 +24,7 @@ Here I keep my solutions for the Advent of Code of 2020.
  [Day 17b](Day17/Day17b.java)
  18. [Day 18](Day18/Day18.java)
  19. [Day 19](Day19/Day19.java)
+ 20. [Day 20](Day20/Day20.java)
  21. [Day 21](Day21/Day21.java)
  22. [Day 22](Day22/Day22.java)
  23. [Day 23](Day23/Day23.java)
